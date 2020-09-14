@@ -5,7 +5,7 @@ An analysis of the TMdb movies dataset.
 * [Motivation](#motivation)
 * [In this notebook I explored these three questions](#in-this-notebook-i-explored-these-three-questions)
 * [Results](#results)
-* [Medium Post of the analysis](#medium-post-of-the-analysis)
+* [Repo files](#repo-files)
 * [Required Packages](#required-packages)
 * [Acknowledgements](#acknowledgements)
 
@@ -27,7 +27,7 @@ The movies industry has changed over the years, we are going to explore some of 
 - There's no evidence that popularity has anything to do with the movie's votings.
 
 
-## Repos' Files:
+## Repo Files:
 ```
 .
 ├── TMdb_Movies_Analysis.html # analysis html file
