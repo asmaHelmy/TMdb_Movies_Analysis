@@ -44,5 +44,5 @@ The movies industry has changed over the years, we are going to explore some of 
 
 ## Acknowledgements:
 
-- This project was done as a part of Udacity's Advanced Data Analysis, thanks for Egypt FWD for the scholarship.
+- This project was done as a part of Udacity's Advanced Data Analysis, thanks Egypt FWD for the scholarship.
 - Data used in this analysis is from Kaggle [Link](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
